@@ -48,7 +48,7 @@ In the responses:
   - https://en.wikipedia.org/wiki/Searx
   - https://github.com/searxng/searxng
   - This is an open source tool with the AGPL-3.0 license.
-- Startpage
+- Startpage[1]
   - https://www.startpage.com/
   - System1 is NOT a nonprofit.
 - Swisscows
@@ -81,3 +81,10 @@ In the responses:
 ### Google's SGE
 
 <img width="823" alt="image" src="https://github.com/danielsgriffin/nonprofit-web-search-engines/assets/6070690/e54c1fb9-7e2a-40b1-9e15-aab9c7273ac0">
+
+
+___
+
+1. [Mager's "European Search? How to counter-imagine and counteract hegemonic search with European search engine projects" 2023](https://doi.org/10.1177/20539517231163173) [mager2023european] (pp. 4-5):
+
+> Following the logics of the market, Startpage (SP) aims to run a profitable business with privacy-friendly search technology. SP is headquartered in The Hague and cooperates with Google to benefit from Google’s web index and search engine results. This enables SP to focus on data protection as its unique selling point. The roots of SP go back to 1998, when its predecessor Ixquick was developed as a meta-search engine, which was turned into a privacy-friendly search engine in 2005. SP offers Google search results without storing, using, or transmitting personal user data to Google, except from the search terms. SP users are thus provided with non-personalized Google search results and advertisements related to their search terms, but not to their personal data or “profiles.” More recently, Startpage introduced additional privacy features such as “anonymous view” for websites or a browser exten- sion that detects and blocks trackers and cookies on websites. The company also runs StartMail, offering ad-free, encrypted email without user surveillance.

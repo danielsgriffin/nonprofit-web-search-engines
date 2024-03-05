@@ -4,6 +4,8 @@ Try searching [web search engines run by nonprofits] on a generative web search 
 
 Like me you might start to furrow your brow at some of the search engines listed in the generated responses. Then you might wonder about all the rest.
 
+(Aside: Note that this isn't a problem just with generated responses, they generally appear to accurately summarize or synthesize claims on pages written by people.)
+
 tldr: The only web search engine listed by these search tools for that query that appears to be a nonprofit is **Ecosia**.
 
 So here I'm trying to get a sense of what search engines are run by non-profits. I am not here interested in search engines that donate a significant amount to charity. I'm not right now interested in the social mission or its effective pursuit. Is the entity that runs the search engine a nonprofit? I am not here arguing that nonprofits are better or not, I only want to evaluate the quality of the search results for this query. I am not interested in whether these entities have made a profit, but in whether they are structured as nonprofits. I understand that, as Gemini noted in response, "The definition of "nonprofit" can be tricky".

@@ -1,6 +1,6 @@
 # nonprofit-web-search-engines
 
-Try searching [web search engines run by nonprofits] on a generative web search system (Bing Copilot, Perplexity AI, or You.com) or look for the generated response offered on search tools like Kagi or Google's SGE or 'online' chatbots like Google's Gemini.
+Try searching [web search engines run by nonprofits] on a generative web search system (ex. Perplexity AI, or You.com) or look for the generated response offered on search tools like Kagi or Google's SGE or 'online' chatbots (like Bing's Copilot or Google's Gemini).
 
 Like me you might start to furrow your brow at some of the search engines listed in the generated responses. Then you might wonder about all the rest.
 
